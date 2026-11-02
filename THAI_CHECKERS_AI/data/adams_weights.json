@@ -1,0 +1,27 @@
+{
+  "model_version": "ADAMS-V3.0",
+  "weights": {
+    "man_value": 100.0,
+    "king_opening": 220.0,
+    "king_midgame": 245.0,
+    "king_endgame": 285.0,
+    "advance_opening": 7.0,
+    "advance_midgame": 5.0,
+    "advance_endgame": 3.0,
+    "center_man": 3.0,
+    "center_king": 1.0,
+    "back_guard": 5.0,
+    "promotion_pressure": 18.0,
+    "mobility_opening": 2.0,
+    "mobility_midgame": 3.5,
+    "mobility_endgame": 5.0,
+    "trapped_penalty": 8.0,
+    "formation": 2.5,
+    "capture_pressure_opening": 1.5,
+    "capture_pressure_midgame": 2.5,
+    "capture_pressure_endgame": 4.0
+  },
+  "metadata": {
+    "origin": "V2 handcrafted seed migrated to V3 schema; tune with selfplay.py"
+  }
+}
